@@ -1,0 +1,1 @@
+this project is a chashier store owner that implements Point of sale logic, 
